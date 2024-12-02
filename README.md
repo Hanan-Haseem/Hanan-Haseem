@@ -8,7 +8,7 @@
 ### 🌐 Connect with Me  
 📫 **Email**: [hananhaseem05@gmail.com](mailto:hananhaseem05@gmail.com)  
 🌐 **Portfolio**: [My Portfolio](https://hanan-haseem.github.io/Portfolio/)   
-💼 **LinkedIn**: [@YourLinkedInHandle](www.linkedin.com/in/hanan-haseem-20020104hn)  
+💼 **LinkedIn**: [Hanan Haseem](https://www.linkedin.com/in/hanan-haseem-20020104hn)  
 
 ---
 
