@@ -20,10 +20,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
-
 ### 📊 GitHub Stats  
-![Hanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanan-haseem&show_icons=true&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanan-haseem&layout=compact&theme=gruvbox)  
+![Hanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanan-haseem&show_icons=true&title_color=39FF14&text_color=E5E5E5&icon_color=00FFFF&bg_color=1D1F21&border_color=FF00FF)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanan-haseem&layout=compact&title_color=39FF14&text_color=E5E5E5&bg_color=1D1F21&border_color=FF00FF)
 
 ---
 
